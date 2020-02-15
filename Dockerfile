@@ -1,2 +1,2 @@
-FROM quay.io/prometheus/node-exporter@sha256:abc123
+FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.26.1
 RUN something
